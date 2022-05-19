@@ -1,4 +1,4 @@
-insert  into `employees`(`employeeNumber`,`lastName`,`firstName`,`extension`,`email`,`officeCode`,`reportsTo`,`jobTitle`,`role`) values 
+INSERT INTO `employees`(`employeeNumber`,`lastName`,`firstName`,`extension`,`email`,`officeCode`,`reportsTo`,`jobTitle`,`role`) VALUES
 (1002,'Murphy','Diane','x5800','dmurphy@classicmodelcars.com','1',NULL,'President',NULL),
 (1056,'Patterson','Mary','x4611','mpatterso@classicmodelcars.com','1',1002,'VP Sales',NULL),
 (1076,'Firrelli','Jeff','x9273','jfirrelli@classicmodelcars.com','1',1002,'VP Marketing',NULL),
